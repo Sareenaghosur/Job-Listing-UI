@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💼 Job Portal UI – React.js
 
 <p align="center">
